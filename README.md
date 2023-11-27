@@ -3,7 +3,7 @@
 ## WeatherStats
 
 A Reactive Spring Boot App that exposes an endpoint which receives a list of cities.
-The app calls an external API that returns forecast mock data. Using the mock data average
+The app calls an external API that returns forecast mock data. Using the mock data, average
 wind and temperature are returned, and a CSV file is generated in its root.
 
 The app only returns values for a predefined list of cities, configurable through environment variables.

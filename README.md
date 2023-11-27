@@ -21,7 +21,7 @@ Java 17, Spring Boot, Gradle 8
 ## weather-forecast-ui
 A simple React UI that can be used to test the app.
 
-Requires Node 20. Can be started using 'npm run dev' in the root of the project.
+Requires Node 20. Can be started using 'npm i' followed by 'npm run dev' in the root of the project.
 
 
 ## Docker configuration

@@ -1,0 +1,162 @@
+{
+  "temperature": "7",
+  "wind": "31",
+  "description": "Constanta November averages",
+  "forecast": [
+    {
+      "day": "1",
+      "temperature": "6",
+      "wind": "37"
+    },
+    {
+      "day": "2",
+      "temperature": "10",
+      "wind": "9"
+    },
+    {
+      "day": "3",
+      "temperature": "5",
+      "wind": "17"
+    },
+    {
+      "day": "4",
+      "temperature": "8",
+      "wind": "31"
+    },
+    {
+      "day": "5",
+      "temperature": "3",
+      "wind": "27"
+    },
+    {
+      "day": "6",
+      "temperature": "7",
+      "wind": "31"
+    },
+    {
+      "day": "7",
+      "temperature": "13",
+      "wind": "6"
+    },
+    {
+      "day": "8",
+      "temperature": "4",
+      "wind": "27"
+    },
+    {
+      "day": "9",
+      "temperature": "0",
+      "wind": "24"
+    },
+    {
+      "day": "10",
+      "temperature": "-5",
+      "wind": "25"
+    },
+    {
+      "day": "11",
+      "temperature": "-2",
+      "wind": "9"
+    },
+    {
+      "day": "12",
+      "temperature": "15",
+      "wind": "10"
+    },
+    {
+      "day": "13",
+      "temperature": "13",
+      "wind": "26"
+    },
+    {
+      "day": "14",
+      "temperature": "-5",
+      "wind": "9"
+    },
+    {
+      "day": "15",
+      "temperature": "6",
+      "wind": "8"
+    },
+    {
+      "day": "16",
+      "temperature": "-1",
+      "wind": "16"
+    },
+    {
+      "day": "17",
+      "temperature": "-1",
+      "wind": "29"
+    },
+    {
+      "day": "18",
+      "temperature": "4",
+      "wind": "39"
+    },
+    {
+      "day": "19",
+      "temperature": "11",
+      "wind": "17"
+    },
+    {
+      "day": "20",
+      "temperature": "12",
+      "wind": "27"
+    },
+    {
+      "day": "21",
+      "temperature": "5",
+      "wind": "32"
+    },
+    {
+      "day": "22",
+      "temperature": "-1",
+      "wind": "31"
+    },
+    {
+      "day": "23",
+      "temperature": "-2",
+      "wind": "22"
+    },
+    {
+      "day": "24",
+      "temperature": "15",
+      "wind": "3"
+    },
+    {
+      "day": "25",
+      "temperature": "9",
+      "wind": "16"
+    },
+    {
+      "day": "26",
+      "temperature": "8",
+      "wind": "22"
+    },
+    {
+      "day": "27",
+      "temperature": "10",
+      "wind": "30"
+    },
+    {
+      "day": "28",
+      "temperature": "2",
+      "wind": "1"
+    },
+    {
+      "day": "29",
+      "temperature": "2",
+      "wind": "16"
+    },
+    {
+      "day": "30",
+      "temperature": "1",
+      "wind": "21"
+    },
+    {
+      "day": "31",
+      "temperature": "12",
+      "wind": "8"
+    }
+  ]
+}

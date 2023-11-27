@@ -1,0 +1,162 @@
+{
+  "temperature": "2",
+  "wind": "0",
+  "description": "Baia-Mare November averages",
+  "forecast": [
+    {
+      "day": "1",
+      "temperature": "12",
+      "wind": "33"
+    },
+    {
+      "day": "2",
+      "temperature": "0",
+      "wind": "36"
+    },
+    {
+      "day": "3",
+      "temperature": "11",
+      "wind": "27"
+    },
+    {
+      "day": "4",
+      "temperature": "4",
+      "wind": "33"
+    },
+    {
+      "day": "5",
+      "temperature": "9",
+      "wind": "13"
+    },
+    {
+      "day": "6",
+      "temperature": "3",
+      "wind": "32"
+    },
+    {
+      "day": "7",
+      "temperature": "3",
+      "wind": "26"
+    },
+    {
+      "day": "8",
+      "temperature": "3",
+      "wind": "11"
+    },
+    {
+      "day": "9",
+      "temperature": "14",
+      "wind": "34"
+    },
+    {
+      "day": "10",
+      "temperature": "12",
+      "wind": "16"
+    },
+    {
+      "day": "11",
+      "temperature": "5",
+      "wind": "21"
+    },
+    {
+      "day": "12",
+      "temperature": "6",
+      "wind": "25"
+    },
+    {
+      "day": "13",
+      "temperature": "-5",
+      "wind": "9"
+    },
+    {
+      "day": "14",
+      "temperature": "-5",
+      "wind": "19"
+    },
+    {
+      "day": "15",
+      "temperature": "14",
+      "wind": "28"
+    },
+    {
+      "day": "16",
+      "temperature": "-4",
+      "wind": "32"
+    },
+    {
+      "day": "17",
+      "temperature": "13",
+      "wind": "28"
+    },
+    {
+      "day": "18",
+      "temperature": "5",
+      "wind": "9"
+    },
+    {
+      "day": "19",
+      "temperature": "8",
+      "wind": "18"
+    },
+    {
+      "day": "20",
+      "temperature": "-2",
+      "wind": "16"
+    },
+    {
+      "day": "21",
+      "temperature": "-2",
+      "wind": "21"
+    },
+    {
+      "day": "22",
+      "temperature": "15",
+      "wind": "18"
+    },
+    {
+      "day": "23",
+      "temperature": "3",
+      "wind": "12"
+    },
+    {
+      "day": "24",
+      "temperature": "-2",
+      "wind": "9"
+    },
+    {
+      "day": "25",
+      "temperature": "11",
+      "wind": "2"
+    },
+    {
+      "day": "26",
+      "temperature": "12",
+      "wind": "38"
+    },
+    {
+      "day": "27",
+      "temperature": "13",
+      "wind": "32"
+    },
+    {
+      "day": "28",
+      "temperature": "-3",
+      "wind": "16"
+    },
+    {
+      "day": "29",
+      "temperature": "5",
+      "wind": "8"
+    },
+    {
+      "day": "30",
+      "temperature": "12",
+      "wind": "37"
+    },
+    {
+      "day": "31",
+      "temperature": "10",
+      "wind": "14"
+    }
+  ]
+}

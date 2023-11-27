@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  spring-boot-app-1:
+    build: ./WeatherStats
+    ports:
+      - "8080:8080"
+    depends_on:
+      - spring-boot-app-2
+
+  spring-boot-app-2:
+    build: ./WeatherForecast
+    ports:
+      - "8090:8090"

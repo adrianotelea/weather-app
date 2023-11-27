@@ -1,0 +1,20 @@
+.resultsContainer {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 860px;
+}
+
+.resultCard {
+    width: 21%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #2e4057;
+    border: 1px solid #235faf;
+    border-radius: 8px;
+    padding: 2rem;
+}

@@ -1,0 +1,64 @@
+#app {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.preact:hover {
+  filter: drop-shadow(0 0 2em #673ab8aa);
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.mainPage {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(to bottom, #0a192f, #112d4e);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  color: #d9e2ec;
+  font-size: 24px;
+}
+
+.button {
+  background-color: #1cb5e0; /* Bright Blue - Accent color */
+  color: #ffffff; /* White for text on buttons */
+}
+
+.container {
+  margin: 12rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mainContainer {
+  max-width: 860px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  background-color: #2e4057;
+  border: 1px solid #235faf;
+  border-radius: 8px;
+  box-sizing: border-box
+}

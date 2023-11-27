@@ -1,0 +1,6 @@
+app:
+  cities: '${DEFAULT_CITIES:Cluj-Napoca, Bucuresti, Timisoara, Constanta, Baia-Mare, Arad}'
+  externalApiHost: '${EXT_API_HOST:localhost}'
+logging:
+  level:
+    web: 'DEBUG'

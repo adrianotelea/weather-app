@@ -1,0 +1,76 @@
+.searchContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.searchInput {
+  height: 2rem;
+  width: 15rem;
+  border: 1px solid #235faf;
+  border-radius: 8px;
+  padding: 4px;
+  box-sizing: border-box
+}
+
+.item {
+  list-style: none;
+  font-size: 16px;
+}
+
+.item span:first-child {
+  font-weight: bold;
+}
+
+.dropdown {
+  position: absolute;
+  border: 1px solid #235faf;
+  background-color: #2e4057;
+  width: 15rem;
+  padding: 8px;
+  margin-top: 0;
+  box-shadow: 1px 2px 6px 4px rgb(134 140 233 / 25%);
+  z-index: 1000;
+  box-sizing: border-box
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1;
+}
+
+.availableData {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.availableData p {
+  margin-top: 0;
+}
+
+.availableData span {
+  display: flex;
+  font-size: 16px;
+  text-align: left;
+  width: 70%;
+}
+
+.search {
+  position: relative;
+  width: 15rem;
+}
+
+.MuiAutocomplete-root {
+  width: 15rem;
+}
+
+.MuiAutocomplete-endAdornment {
+  display: none;
+}
+
+.MuiButtonBase-root {
+  display: none;
+}

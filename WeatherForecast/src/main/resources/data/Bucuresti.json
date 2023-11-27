@@ -1,0 +1,162 @@
+{
+  "temperature": "2",
+  "wind": "30",
+  "description": "Bucuresti November averages",
+  "forecast": [
+    {
+      "day": "1",
+      "temperature": "10",
+      "wind": "24"
+    },
+    {
+      "day": "2",
+      "temperature": "2",
+      "wind": "30"
+    },
+    {
+      "day": "3",
+      "temperature": "7",
+      "wind": "11"
+    },
+    {
+      "day": "4",
+      "temperature": "-2",
+      "wind": "3"
+    },
+    {
+      "day": "5",
+      "temperature": "-4",
+      "wind": "16"
+    },
+    {
+      "day": "6",
+      "temperature": "13",
+      "wind": "20"
+    },
+    {
+      "day": "7",
+      "temperature": "-1",
+      "wind": "13"
+    },
+    {
+      "day": "8",
+      "temperature": "5",
+      "wind": "12"
+    },
+    {
+      "day": "9",
+      "temperature": "6",
+      "wind": "37"
+    },
+    {
+      "day": "10",
+      "temperature": "10",
+      "wind": "33"
+    },
+    {
+      "day": "11",
+      "temperature": "3",
+      "wind": "26"
+    },
+    {
+      "day": "12",
+      "temperature": "1",
+      "wind": "25"
+    },
+    {
+      "day": "13",
+      "temperature": "8",
+      "wind": "22"
+    },
+    {
+      "day": "14",
+      "temperature": "-5",
+      "wind": "32"
+    },
+    {
+      "day": "15",
+      "temperature": "9",
+      "wind": "24"
+    },
+    {
+      "day": "16",
+      "temperature": "1",
+      "wind": "9"
+    },
+    {
+      "day": "17",
+      "temperature": "12",
+      "wind": "28"
+    },
+    {
+      "day": "18",
+      "temperature": "-2",
+      "wind": "2"
+    },
+    {
+      "day": "19",
+      "temperature": "1",
+      "wind": "5"
+    },
+    {
+      "day": "20",
+      "temperature": "-1",
+      "wind": "15"
+    },
+    {
+      "day": "21",
+      "temperature": "8",
+      "wind": "18"
+    },
+    {
+      "day": "22",
+      "temperature": "7",
+      "wind": "35"
+    },
+    {
+      "day": "23",
+      "temperature": "-5",
+      "wind": "37"
+    },
+    {
+      "day": "24",
+      "temperature": "3",
+      "wind": "30"
+    },
+    {
+      "day": "25",
+      "temperature": "1",
+      "wind": "2"
+    },
+    {
+      "day": "26",
+      "temperature": "7",
+      "wind": "12"
+    },
+    {
+      "day": "27",
+      "temperature": "-5",
+      "wind": "30"
+    },
+    {
+      "day": "28",
+      "temperature": "3",
+      "wind": "32"
+    },
+    {
+      "day": "29",
+      "temperature": "-1",
+      "wind": "3"
+    },
+    {
+      "day": "30",
+      "temperature": "3",
+      "wind": "21"
+    },
+    {
+      "day": "31",
+      "temperature": "-5",
+      "wind": "12"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "temperature": "4",
+  "wind": "31",
+  "description": "Cluj-Napoca November averages",
+  "forecast": [
+    {
+      "day": "1",
+      "temperature": "4",
+      "wind": "31"
+    },
+    {
+      "day": "2",
+      "temperature": "-3",
+      "wind": "33"
+    },
+    {
+      "day": "3",
+      "temperature": "1",
+      "wind": "0"
+    },
+    {
+      "day": "4",
+      "temperature": "-5",
+      "wind": "39"
+    },
+    {
+      "day": "5",
+      "temperature": "-4",
+      "wind": "39"
+    },
+    {
+      "day": "6",
+      "temperature": "8",
+      "wind": "39"
+    },
+    {
+      "day": "7",
+      "temperature": "-3",
+      "wind": "32"
+    },
+    {
+      "day": "8",
+      "temperature": "9",
+      "wind": "11"
+    },
+    {
+      "day": "9",
+      "temperature": "7",
+      "wind": "28"
+    },
+    {
+      "day": "10",
+      "temperature": "7",
+      "wind": "9"
+    },
+    {
+      "day": "11",
+      "temperature": "-3",
+      "wind": "22"
+    },
+    {
+      "day": "12",
+      "temperature": "-1",
+      "wind": "32"
+    },
+    {
+      "day": "13",
+      "temperature": "-3",
+      "wind": "11"
+    },
+    {
+      "day": "14",
+      "temperature": "3",
+      "wind": "13"
+    },
+    {
+      "day": "15",
+      "temperature": "-4",
+      "wind": "16"
+    },
+    {
+      "day": "16",
+      "temperature": "14",
+      "wind": "29"
+    },
+    {
+      "day": "17",
+      "temperature": "12",
+      "wind": "15"
+    },
+    {
+      "day": "18",
+      "temperature": "2",
+      "wind": "18"
+    },
+    {
+      "day": "19",
+      "temperature": "5",
+      "wind": "38"
+    },
+    {
+      "day": "20",
+      "temperature": "3",
+      "wind": "20"
+    },
+    {
+      "day": "21",
+      "temperature": "9",
+      "wind": "2"
+    },
+    {
+      "day": "22",
+      "temperature": "-4",
+      "wind": "19"
+    },
+    {
+      "day": "23",
+      "temperature": "-4",
+      "wind": "8"
+    },
+    {
+      "day": "24",
+      "temperature": "15",
+      "wind": "25"
+    },
+    {
+      "day": "25",
+      "temperature": "15",
+      "wind": "2"
+    },
+    {
+      "day": "26",
+      "temperature": "7",
+      "wind": "6"
+    },
+    {
+      "day": "27",
+      "temperature": "5",
+      "wind": "26"
+    },
+    {
+      "day": "28",
+      "temperature": "1",
+      "wind": "11"
+    },
+    {
+      "day": "29",
+      "temperature": "7",
+      "wind": "33"
+    },
+    {
+      "day": "30",
+      "temperature": "-2",
+      "wind": "10"
+    },
+    {
+      "day": "31",
+      "temperature": "10",
+      "wind": "10"
+    }
+  ]
+}
